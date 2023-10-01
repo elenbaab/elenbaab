@@ -20,8 +20,6 @@
   <img src="https://github.com/elenbaab/elenbaab/assets/97915273/15486aca-c98f-448b-a4fb-a3ad91f09fbc" alt="Express" height="40" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="Mongodb" height="40" style="vertical-align:top; margin:4px">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="40" style="vertical-align:top; margin:4px">
-
 </p>
 
 
